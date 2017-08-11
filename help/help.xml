@@ -1,0 +1,13 @@
+<?xml version='1.0' standalone='yes'?>
+<helpset>
+	
+	<fields>
+		<help key='prevent-duplicate-customers'><![CDATA[Do not allow customer accounts to be created with the same email address as an existing account.]]></help>
+		<help key='require-approval'><![CDATA[New account requests will be placed in a queue to be approved. If unchecked, all requests will be approved immediately.]]></help>
+	</fields>
+	
+	<sections>
+	</sections>
+	
+</helpset>
+	
